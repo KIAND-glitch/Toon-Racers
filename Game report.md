@@ -1,6 +1,6 @@
 **The University of Melbourne**
-**GROUP 69**
-# COMP30019 – G69 Toon Racers - README
+
+# COMP30019 – Toon Racers - README
 
 ## Table of Contents
 * [Where to Locate Code](#Where-to-Locate-Code)
