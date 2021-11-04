@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{B9981384-D117-7A12-3788-2E12349BF11D}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/OpenWorld/DiamondSquareTerrain.cs">
+    <Files>
+      <File FileName="Assets/Scripts/OpenWorld/DiamondSquareTerrain.cs" Line="208" Column="56" />
+      <File FileName="Assets/Shaders/HeightShader (2).shader" />
+      <File FileName="Assets/Scripts/CarScripts/CarController.cs" />
+      <File FileName="Assets/Scripts/Menus/MainMenu.cs" />
+      <File FileName="Assets/Scripts/CheckPoints/CountdownController.cs" />
+      <File FileName="Assets/Scripts/CheckPoints/RestartPrompt.cs" />
+      <File FileName="Assets/Scripts/CheckPoints/Timer.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="804ac525-bc12-4809-b81e-cb479a625429" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
